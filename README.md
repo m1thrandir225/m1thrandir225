@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sebastijan Zindl</h1>
-<h3 align="center">Junior Software Engineer working at Piksel LTD.</h3>
+<h3 align="center">Software Engineer working at Piksel LTD.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1thrandir225&label=Profile%20views&color=0e75b6&style=flat" alt="m1thrandir225" /> </p>
 
