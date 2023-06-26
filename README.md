@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sebastijan Zindl</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1thrandir225&theme=gruvbox" alt="m1thrandir225" /></a> </p>
 
-- 🔭 I’m currently working on **Galore**
+- 🔭 I’m currently working on **Galore (private) **
 
-- 🌱 I’m currently learning **Go lang**
+- 🌱 I’m currently learning **Go, Framer Motion, GSAP**
 
 - 📫 How to reach me **sebastijan32@hotmail.com**
 
