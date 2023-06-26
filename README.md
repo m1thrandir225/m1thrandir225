@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastijan Zindl</h1>
-<img src="https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" alt="Gandalf" width="300" height="250"/>
+<p align="center"><img src="https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" alt="Gandalf" width="400" height="200"/></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1thrandir225&theme=gruvbox" alt="m1thrandir225" /></a> </p>
 - 🔭 I’m currently working on **Galore (private)**
