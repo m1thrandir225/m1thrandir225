@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m1thrandir225&show_icons=true&locale=en&theme=gruvbox" alt="m1thrandir225" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m1thrandir225&" alt="m1thrandir225" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m1thrandir225&theme=gruvbox" alt="m1thrandir225" /></p>
