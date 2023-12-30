@@ -4,4 +4,4 @@ I am a software engineer with a passion for building things. Currently, I am wor
 
 ##### Check out my portfolio at [sebastijanzindl.me](https://sebastijanzindl.me)
 
-![M1thrandirs's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1thrandir225&show_icons=true&theme=flag-india)
+[![GitHub Streak](https://streak-stats.demolab.com?user=m1thrandir225&theme=swift&hide_border=true)](https://git.io/streak-stats)
