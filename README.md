@@ -1,6 +1,5 @@
-# Hi, I'm Sebastijan Zidl
-
-I'm a software engineer with a passion for building things. I love the Catppucin Theme (Latte flavour), and I'm currently a 3rd year student at the Faculty of Computer Science and Engineering in Skopje, Macedonia. ♥ 
+# Sebastijan Zindl
+Software engineering student, full-time C# hater, cat enjoyer, lord of the rings fan and a keyboard enjoyer. - likes to read sometimes too ^^  
 
 ##### Check out my personal site at [sebastijanzindl.me](https://sebastijanzindl.me)
 
